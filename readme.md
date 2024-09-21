@@ -10,7 +10,7 @@
 [Python Website](https://www.python.org)
 
 ## Screenshot of Package Installation
-![Pandas Package Installation](pandas installation.png)
+![Pandas Installation](pandas%20installation.png)
 
 ## Mr. Fresh
 ![Mr. Fresh](https://i.ytimg.com/vi/Gt2hC7UDjBQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShXMA8=&rs=AOn4CLAH4yyfWawIN3HKqdVYJaLGM0ivPg)
